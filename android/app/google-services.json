@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307548005631",
+    "firebase_url": "https://balaji-temple.firebaseio.com",
+    "project_id": "balaji-temple",
+    "storage_bucket": "balaji-temple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307548005631:android:5a2208644bcb98673b98ca",
+        "android_client_info": {
+          "package_name": "com.example.admin_balaji_temple_ahmedabad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307548005631-hlfij3c9l1snojhev4pjohp6bfmg5bfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKzFP0lTe0KHqloNmM1kbGHuDDhDpAPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307548005631-hlfij3c9l1snojhev4pjohp6bfmg5bfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
