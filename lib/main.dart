@@ -1,7 +1,10 @@
 import 'package:admin_balaji_temple_ahmedabad/views/awards_page.dart';
 import 'package:admin_balaji_temple_ahmedabad/views/dharmakarthas_words_page.dart';
 import 'package:admin_balaji_temple_ahmedabad/views/facilities_page.dart';
+import 'package:admin_balaji_temple_ahmedabad/views/home_carousel_edit_page.dart';
 import 'package:admin_balaji_temple_ahmedabad/views/home_page.dart';
+import 'package:admin_balaji_temple_ahmedabad/views/main_marque_edit_page.dart';
+import 'package:admin_balaji_temple_ahmedabad/views/next_event_edit_page.dart';
 import 'package:admin_balaji_temple_ahmedabad/views/trusties_page.dart';
 import 'package:flutter/material.dart';
 
@@ -19,6 +22,9 @@ class MyApp extends StatelessWidget {
         '/dharmakarthas_words_page': (context) => DharmakarthasWordsPage(),
         '/facilities_page': (context) => FacilitiesPage(),
         '/awards_page': (context) => AwardsAndAppreciationPage(),
+        '/marque_edit_page': (context) => MarqueEditPage(),
+        '/next_event_edit_page': (context) => NextEventPage(),
+        '/home_carousel_edit_page': (context) => HomeCarouselEditPage(),
       },
     );
   }
